@@ -5,3 +5,6 @@ page 2 of my book
 
 some work here
 
+edit page 2 after I commit it. becomes blue font
+
+
